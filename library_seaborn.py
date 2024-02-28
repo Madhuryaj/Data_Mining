@@ -21,7 +21,7 @@ df = pd.DataFrame({'x': np.random.rand(20),
                    'y': np.random.rand(20),
                    'z': np.random.rand(20)})
 sns.pairplot(df)
-# plt.show()
+plt.show()
 
 
 # try
